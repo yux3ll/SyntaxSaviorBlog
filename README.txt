@@ -1,1 +1,3 @@
-write basic ass description here at some point
+Syntax Savior Project Website
+
+Design Template from : https://html5up.net/
